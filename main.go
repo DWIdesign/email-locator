@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/qudaci/email-locator/tld"
+	"github.com/DWIdesign/email-locator/tld"
 	"log"
 
 	"encoding/csv"
